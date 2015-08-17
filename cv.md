@@ -6,6 +6,9 @@ permalink: /research/
 
 ## Research
 
+### Awards
+- Award ISCA grant in 2015 for my paper Preserving Word-level Emphasis in Speech-to-speech Translation using Linear Regression HSMMs  in Interspeech 2015 conferences.
+
 ### Academic History
 - 10/2013 - now [Graduate School of Information Technology (NAIST)](http://www.naist.jp/en/): Master program
 - 09/2009 - 09/2013 [University of Engineering and Technology](http://e.uet.vnu.edu.vn/): B.S. Information and Technology
