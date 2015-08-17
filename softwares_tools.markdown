@@ -12,7 +12,8 @@ This is a library that perform speech recognition on Android mobile platform. Ba
 A toolkit for Vietnamese segmentation, chunking, part of speech tagging and Morphological analyzer. The toolkit is written in C++, it is very easy to install and use. Checkout the [homepage](http://www.truongdq.com/vita) for more detail.
 
 ## [hts_reader](https://github.com/truongdq/hts_reader) ##
-A Python library for reading HTS binary model, decision tree. It also allows to parse a full context label to the corresponding Gaussian component in
+A Python library for reading and modifying HTS binary model, decision tree. It is written in pure Python, no dependencies.
+It also allows to parse a full context label to the corresponding Gaussian component in
 the decision tree. Checkout the [github page](https://github.com/truongdq/hts_reader) for more detail.
 
 # Scripts / Tools #
