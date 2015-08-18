@@ -22,5 +22,5 @@ the decision tree. Checkout the [github page](https://github.com/truongdq/hts_re
 This is a library for Python that support for IO operation in a smart and easy ways. Checkout the [homepage](https://github.com/truongdq/py_io) for more detail.
 
 ## [HTS Training Parallelization]({% post_url 2015-08-17-hts-parallel %}) ##
-This is some small modifications of HTS training process that allows it to run HERest in parallel. Checkout the [homepage]({% post_url 2015-08-17-hts-parallel %}) for more detail.
+This is some small modifications of HTS training process that allows it to run HERest in parallel. Checkout this [tutorial]({% post_url 2015-08-17-hts-parallel %}) for more detail.
 
