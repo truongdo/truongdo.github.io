@@ -4,7 +4,7 @@ title:  "HTS Parallel Training"
 date:   2015-08-17 09:40:12
 description: HTS parallel training, run HERest in parallel
 ---
-## Hts Parallel Training
+## HTS Parallel Training
 
 This is a small modification of HTS training process that allows it to run HERest in parallel.
 

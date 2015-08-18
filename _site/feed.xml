@@ -5,13 +5,13 @@
     <description></description>
     <link>http://truongdq.com/</link>
     <atom:link href="http://truongdq.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 17 Aug 2015 15:10:05 +0900</pubDate>
-    <lastBuildDate>Mon, 17 Aug 2015 15:10:05 +0900</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2015 11:22:14 +0900</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2015 11:22:14 +0900</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>HTS Parallel Training</title>
-        <description>&lt;h2 id=&quot;hts-parallel-training&quot;&gt;Hts Parallel Training&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;hts-parallel-training&quot;&gt;HTS Parallel Training&lt;/h2&gt;
 
 &lt;p&gt;This is a small modification of HTS training process that allows it to run HERest in parallel.&lt;/p&gt;
 
