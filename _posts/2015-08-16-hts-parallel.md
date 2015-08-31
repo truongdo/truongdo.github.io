@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: True
 title:  "HTS Parallel Training"
 date:   2015-08-17 09:40:12
 description: HTS parallel training, run HERest in parallel
