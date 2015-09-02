@@ -5,9 +5,11 @@ permalink: /software/
 ---
 # Softwares #
 
+<!--
 ## [Word-level emphasis estimation](http://truongdq.com/word-level-emphasis-estimation/) ##
 A toolkit to estimate a real-numbered value for every word in an utterance that represents for how emphasis that word is using linear hidden semi-Markov model (LR-HSMM).
 See more detail in [project page](http://truongdq.com/word-level-emphasis-estimation/) or [this paper](url).
+-->
 
 ## [Kaldi GStremer Client Library for Android](https://github.com/truongdq/kaldi-gstreamer-android-client) ##
 This is a library that perform speech recognition on Android mobile platform. Basically, it records a audio from the mobile phone, and send it asynchronously to a Kaldi GStreamer server. Checkout the [project page](https://github.com/truongdq/kaldi-gstreamer-android-client) for more detail.
