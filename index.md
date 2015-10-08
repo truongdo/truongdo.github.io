@@ -17,3 +17,4 @@ paralinguistic extraction and translation as well. You can find more details on 
 - At work: do.truong.dj3 [at] is.naist.jp
 - Personal: do.q.truong [at] gmail.com
 
+
