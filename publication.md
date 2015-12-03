@@ -4,6 +4,10 @@ title:  Publications
 permalink: /publication/
 ---
 ###2015
+- [Quoc Truong Do](http://truongdq.com), Sakriani Sakti, Graham Neubig, Tomoki Toda, Satoshi Nakamura. [Improving Translation of Emphasis with Pause prediction in Speech-to-speech Translation Systems](https://github.com/truongdq/truongdq.github.io/raw/master/_docs/papers/do2015iwslt.pdf). IWSLT 2015, Vietnam. [bibtex](https://github.com/truongdq/truongdq.github.io/raw/master/_docs/bibtex/truong2015_iwslt.bib).
+
+- Michael Heck, [Quoc Truong Do](http://truongdq.com), Sakriani Sakti, Graham Neubig, Tomoki Toda, Satoshi Nakamura. [The NAIST ASR System for IWSLT 2015](https://github.com/truongdq/truongdq.github.io/raw/master/_docs/papers/michael15iwslt.pdf). IWSLT 2015, Vietnam. [bibtex](https://github.com/truongdq/truongdq.github.io/raw/master/_docs/bibtex/michael_iwslt.bib).
+
 - [Quoc Truong Do](http://truongdq.com), Michael Heck, Sakriani Sakti, Graham Neubig, Tomoki Toda, Satoshi Nakamura. [The NAIST ASR System for the 2015 Multi-Genre Broadcast Challenge: On Combination of Deep Learning Systems Using a Rank-Score Function (To Appear)](http://www.url.com). ASRU 2015. USA. [bibtex](https://github.com/truongdq/truongdq.github.io/raw/master/_docs/bibtex/truong2015_asru.bib).
 
 - [Quoc Truong Do](http://truongdq.com), Shinnosuke Takamichi, Sakriani Sakti, Graham Neubig, Tomoki Toda, Satoshi Nakamura. [Preserving Word-level Emphasis in Speech-to-speech Translation using Linear Regression HSMMs)](https://github.com/truongdq/truongdq.github.io/raw/master/_docs/papers/do15interspeech.pdf). Interspeech 2015. Dresden, Germany. [bibtex](https://github.com/truongdq/truongdq.github.io/raw/master/_docs/bibtex/truong2015_interspeech.bib).
