@@ -9,5 +9,6 @@ I've received my Bachelor of [Information and Technology from University of Engi
 
 Research Interest
 Contact
-At work: do.truong.dj3 at is.naist.jp
-Personal: do.q.truong at gmail.com
+
+- At work: do.truong.dj3 at is.naist.jp
+- Personal: do.q.truong at gmail.com
