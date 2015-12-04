@@ -1,3 +1,5 @@
+gems:
+    - jekyll-sitemap
 # Site settings
 title: Do Quoc Truong
 email: do.q.truong [at] gmail.com
