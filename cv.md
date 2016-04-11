@@ -3,12 +3,14 @@ layout: page
 title: Research/CV
 permalink: /research/
 ---
-[Download curriculum vitae](https://github.com/truongdq/truongdq.github.io/raw/master/_docs/CV/cv.pdf).
+[Download curriculum vitae](https://github.com/truongdo/truongdo.github.io/raw/master/_docs/CV/cv.pdf).
 
 ## Research
 
 ### Awards
-- Award ISCA grant in 2015 for my paper Preserving Word-level Emphasis in Speech-to-speech Translation using Linear Regression HSMMs  in Interspeech 2015 conferences.
+- Awards the  best student prize for the master course at NAIST.
+- Awards the best project for creative Creative and International Competitiveness Project (CICP) hosted by NAIST.
+- Awards ISCA grant in 2015 for my paper Preserving Word-level Emphasis in Speech-to-speech Translation using Linear Regression HSMMs  in Interspeech 2015 conferences.
 
 ### Academic History
 - 10/2013 - now [Graduate School of Information Technology (NAIST)](http://www.naist.jp/en/): Master program
