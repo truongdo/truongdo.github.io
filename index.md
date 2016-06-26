@@ -2,6 +2,7 @@
 layout: default
 ---
 
+{% seo %}
 <!--<div class="home">-->
 
 # Do Quoc Truong #
