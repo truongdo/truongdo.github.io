@@ -10,7 +10,7 @@ layout: default
 
 I am currently a Ph.D student at the [Agumented Human Communication Laboratory, Nara Institute of Science and Technology (NAIST)](http://ahclab.naist.jp/index_en.html).
 
-My research interests are related to speech technologies such as speech recognition, speech translation; and
+My research interests are related to speech technologies such as speech recognition, speech translation,
 paralinguistic extraction and translation as well. You can find more details on [publication page](http://www.truongdq.com/publication).
 
 ## Contact
