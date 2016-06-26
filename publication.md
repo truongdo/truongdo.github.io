@@ -4,6 +4,7 @@ title:  Publications
 permalink: /publication/
 ---
 <!-- [code](http://truongdo.com/word-level-emphasis-estimation/) -->
+{% seo %}
 
 |Year|Papers|Codes|Samples|
 |-----|------|-----|-------|
