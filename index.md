@@ -14,5 +14,4 @@ My research interests are related to speech technologies such as speech recognit
 paralinguistic extraction and translation as well. You can find more details on [publication page](http://www.truongdq.com/publication).
 
 ## Contact
-- __At work:__ <a href="mailto:do.truong.dj3 [at] is.naist.jp">do.truong.dj3 [at] is.naist.jp</a>
 - __Personal:__ <a href="mailto:truongdq54 [at] gmail.com">truongdq54 [at] gmail.com</a>
