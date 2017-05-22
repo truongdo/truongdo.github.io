@@ -6,7 +6,7 @@ layout: default
 <!--<div class="home">-->
 
 # Do Quoc Truong #
-<img style="float: right;" height="120" src="https://github.com/truongdq/truongdq.github.io/raw/master/images/avatar.jpg">
+<img style="float: right;" height="120" src="https://github.com/truongdo/truongdo.github.io/raw/master/images/avatar.jpg">
 
 I am currently a Ph.D student at the [Agumented Human Communication Laboratory, Nara Institute of Science and Technology (NAIST)](http://ahclab.naist.jp/index_en.html).
 
