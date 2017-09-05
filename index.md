@@ -15,3 +15,5 @@ paralinguistic extraction and translation as well. You can find more details on 
 
 ## Contact
 - __Personal:__ <a href="mailto:truongdq54 [at] gmail.com">truongdq54 [at] gmail.com</a>
+
+(link)[https://goo.gl/kWBvQS]
