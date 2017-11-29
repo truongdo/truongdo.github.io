@@ -8,7 +8,8 @@ permalink: /research/
 ## Research
 
 ### Awards
-- Awards the  best student prize for the master course at NAIST.
+- Awards the IEEE Signal Processing Society (SPS) Japan Student Journal Paper Award for my journal paper on emphasis speech translation.
+- Awards the best student prize for the master course at NAIST.
 - Awards the best project for creative Creative and International Competitiveness Project (CICP) hosted by NAIST.
 - Awards ISCA grant in 2015 for my paper Preserving Word-level Emphasis in Speech-to-speech Translation using Linear Regression HSMMs  in Interspeech 2015 conferences.
 
