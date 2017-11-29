@@ -6,7 +6,7 @@ permalink: /publication/
 <!-- [code](http://truongdo.com/word-level-emphasis-estimation/) -->
 {% seo %}
 
-|Year|Papers|Codes|Samples|fdsa
+|Year|Papers|Codes|Samples|
 |-----|------|-----|-------|
 |2017| [Quoc Truong Do](http://truongdo.com), Sakriani Sakti, Satoshi Nakamura. [Toward Expressive Speech Translation: A Unified Sequence-to-Sequence LSTMs Approach for Translating Words and Emphasis](http://truongdo.com). Interspeech 2017 (To appear)
 |2017| [Quoc Truong Do](http://truongdo.com), Tomoki Toda, Graham Neubig, Sakriani Sakti, Satoshi Nakamura. [Preserving Word-level Emphasis in Speech-to-speech Translation](https://github.com/truongdo/truongdo.github.io/raw/master/_docs/papers/truong2017_IEEE_emphasis.pdf). IEEE Transactions on Audio, Speech and Language Processing 2017. [bibtex](https://github.com/truongdo/truongdo.github.io/raw/master/_docs/bibtex/truong2017_IEEE_emphasis.bib)
