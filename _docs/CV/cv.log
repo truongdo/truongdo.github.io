@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.27)  8 DEC 2017 23:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.23)  3 JUN 2018 23:08
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  %&-line parsing enabled.
-**cv.tex
-(./cv.tex
+**/tmp/nvimTvb2E6/1
+(/tmp/nvimTvb2E6/1
 LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 12 language(s) loaded.
+Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
 (./res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
@@ -524,38 +524,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--49
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--59
+Underfull \hbox (badness 10000) in paragraph at lines 53--60
 
  []
 
-[1
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 77.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 111.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 112.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
  ) 
 Here is how much of TeX's memory you used:
- 4779 strings out of 494497
- 68017 string characters out of 6172400
- 148572 words of memory out of 5000000
- 8206 multiletter control sequences out of 15000+600000
- 8078 words of font info for 20 fonts, out of 8000000 for 9000
- 264 hyphenation exceptions out of 8191
- 29i,8n,21p,178b,351s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/truong-d/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </hom
-e/truong-d/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600pk> </home/truong
--d/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/truong-d/.texm
-f-var/fonts/pk/ljfour/jknappen/ec/eccc1000.600pk> </home/truong-d/.texmf-var/fo
-nts/pk/ljfour/jknappen/ec/ecbx1200.600pk></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv.pdf (2 pages, 53127 bytes).
+ 4800 strings out of 494953
+ 68655 string characters out of 6180977
+ 147660 words of memory out of 5000000
+ 8089 multiletter control sequences out of 15000+600000
+ 8391 words of font info for 21 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 29i,8n,21p,338b,351s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/truong-d/.texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk> </hom
+e/truong-d/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/truong
+-d/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.600pk> </home/truong-d/.texm
+f-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/truong-d/.texmf-var/fo
+nts/pk/ljfour/jknappen/ec/eccc1000.600pk> </home/truong-d/.texmf-var/fonts/pk/l
+jfour/jknappen/ec/ecbx1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb>
+Output written on cv.pdf (2 pages, 58630 bytes).
 PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 212 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
