@@ -8,6 +8,7 @@ permalink: /publication/
 
 |Year|Papers|Codes|Samples|
 |-----|------|-----|-------|
+|2018| [Quoc Truong Do](http://truongdo.com), Sakriani Sakti, Satoshi Nakamura. [Sequence-to-Sequence Models for Emphasis Speech Translation](https://github.com/truongdo/truongdo.github.io/raw/master/_docs/papers/truong2017_IEEE_emphasis.pdf). IEEE Transactions on Audio, Speech and Language Processing 2018. (To apprear)
 |2018| Sashi Novitasari, [Quoc Truong Do](http://truongdo.com), Sakriani Sakti, Dessi Lestari and Satoshi Nakamura. [Construction of English-French Multimodal Affective Conversational Corpus from Drama TV Series](http://truongdo.com). LREC 2018 (To appear)
 |2017| [Quoc Truong Do](http://truongdo.com), Sakriani Sakti, Satoshi Nakamura. [Toward Expressive Speech Translation: A Unified Sequence-to-Sequence LSTMs Approach for Translating Words and Emphasis](https://github.com/truongdo/truongdo.github.io/raw/master/_docs/papers/do2017_hard_attention.pdf). Interspeech 2017
 |2017| [Quoc Truong Do](http://truongdo.com), Tomoki Toda, Graham Neubig, Sakriani Sakti, Satoshi Nakamura. [Preserving Word-level Emphasis in Speech-to-speech Translation](https://github.com/truongdo/truongdo.github.io/raw/master/_docs/papers/truong2017_IEEE_emphasis.pdf). IEEE Transactions on Audio, Speech and Language Processing 2017. [bibtex](https://github.com/truongdo/truongdo.github.io/raw/master/_docs/bibtex/truong2017_IEEE_emphasis.bib)
