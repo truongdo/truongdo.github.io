@@ -9,7 +9,7 @@ email: do.q.truong [at] gmail.com
   #Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://truongdo.com" # the base hostname & protocol for your site
-twitter_username: truongdq54
+twitter_username: 
 github_username:  truongdo
 
 # Build settings
