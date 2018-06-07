@@ -15,3 +15,4 @@ paralinguistic extraction and translation. You can find more details on [publica
 
 ## Contact
 - __Personal:__ <a href="mailto:truongdq54 [at] gmail.com">truongdq54 [at] gmail.com</a>
+- __Work:__ <a href="mailto:do.truong.dj3 [at] is.naist.jp">do.truong.dj3 [at] is.naist.jp</a>
