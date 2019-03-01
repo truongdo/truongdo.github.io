@@ -9,5 +9,5 @@ I've received my Master and Doctor degree at the [Agumented Human Communication 
 Research Interest
 Contact
 
-- At work: do.truong.dj3 at is.naist.jp
-- Personal: do.q.truong at gmail.com
+- At work: truongdo at vais.vn
+- Personal: truongdq54 at gmail.com
