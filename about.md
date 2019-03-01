@@ -3,9 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am currently a Master student at the [Agumented Human Communication Laboratory, Nara Institute of Science and Technology (NAIST)](http://ahclab.naist.jp/index_en.html) .
-
-I've received my Bachelor of [Information and Technology from University of Engineering and Technology, Vietnam National University](http://e.uet.vnu.edu.vn/) in 2013.
+I am currently the CAIO of VAIS, an AI Vietnam startup company, which develops AI core engines.
+I've received my Master and Doctor degree at the [Agumented Human Communication Laboratory, Nara Institute of Science and Technology (NAIST)](http://ahclab.naist.jp/index_en.html).
 
 Research Interest
 Contact
