@@ -8,8 +8,7 @@ permalink: /publication/
 
 |Year|Papers|Codes|Samples|
 |-----|------|-----|-------|
-|2020| Thai Binh Nguyen, Quang Minh Nguyen, Thi Thu Hien Nguyen, Quoc Truong Do, Chi Mai Luong. Improving Vietnamese Named Entity Recognition from Speech
-Using Word Capitalization and Punctuation Recovery Models (To appear). Interspeech 2020. | | |
+|2020| Thai Binh Nguyen, Quang Minh Nguyen, Thi Thu Hien Nguyen, Quoc Truong Do, Chi Mai Luong. Improving Vietnamese Named Entity Recognition from Speech Using Word Capitalization and Punctuation Recovery Models (To appear). Interspeech 2020. | | |
 |2019| Thai Binh Nguyen, Vu Bao Hung Nguyen, Hien Nguyen, Ngoc Phuong Pham, The Loc Nguyen, [Quoc Truong Do](http://truongdo.com) and Chi Mai Luong. [Fast and Accurate Capitalization and Punctuation for Automatic Speech Recognition Using Transformer and Chunk Merging](https://github.com/truongdo/truongdo.github.io/raw/master/_docs/papers/41.pdf). OCOCOSDA 2019.| | |
 |2018| [Quoc Truong Do](http://truongdo.com), Sakriani Sakti, Satoshi Nakamura. [Sequence-to-Sequence Models for Emphasis Speech Translation](https://github.com/truongdo/truongdo.github.io/raw/master/_docs/papers/truong2017_IEEE_emphasis.pdf). IEEE Transactions on Audio, Speech and Language Processing 2018.
 |2018| Sashi Novitasari, [Quoc Truong Do](http://truongdo.com), Sakriani Sakti, Dessi Lestari and Satoshi Nakamura. [Construction of English-French Multimodal Affective Conversational Corpus from Drama TV Series](http://truongdo.com). LREC 2018.
