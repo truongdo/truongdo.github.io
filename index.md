@@ -12,7 +12,7 @@ I am currently a Ph.D student at the [Agumented Human Communication Laboratory, 
 I am currently the CEO of [VAIS](https://vais.vn), a Vietnam AI startup company, which develops AI core engines.
 I've received my Master and Doctor degree at the [Agumented Human Communication Laboratory, Nara Institute of Science and Technology (NAIST)](http://ahclab.naist.jp/index_en.html).
 
-My research interests are AI technologies, especially, related to speech and natural language processing such as speech recognition, speech translation,
+My research interests are AI/ML technologies, especially, related to speech and natural language processing such as speech recognition, speech translation,
 paralinguistic extraction and translation. You can find more details on [publication page](http://www.truongdo.com/publication).
 
 ## Contact
