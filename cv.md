@@ -3,9 +3,11 @@ layout: page
 title: Research/CV
 permalink: /research/
 ---
+Check out my CV for the most up-to-date version.
 [Download curriculum vitae](https://github.com/truongdo/truongdo.github.io/raw/master/_docs/CV/cv.pdf).
 
-## Research
+
+## Highlights
 
 ### Awards
 - Awards the IEEE Signal Processing Society (SPS) Japan Student Journal Paper Award for my journal paper on emphasis speech translation.
@@ -14,7 +16,7 @@ permalink: /research/
 - Awards ISCA grant in 2015 for my paper Preserving Word-level Emphasis in Speech-to-speech Translation using Linear Regression HSMMs  in Interspeech 2015 conferences.
 
 ### Academic History
-- 10/2015 - now [Graduate School of Information Technology (NAIST)](http://www.naist.jp/en/): Doctoral program
+- 10/2015 - 2018 [Graduate School of Information Technology (NAIST)](http://www.naist.jp/en/): Doctoral program
 - 10/2013 - 10/2015 [Graduate School of Information Technology (NAIST)](http://www.naist.jp/en/): Master program
 - 09/2009 - 09/2013 [University of Engineering and Technology](http://e.uet.vnu.edu.vn/): B.S. Information and Technology
 
