@@ -16,5 +16,5 @@ My research interests are AI/ML technologies, especially, related to speech and 
 paralinguistic extraction and translation. You can find more details on [publication page](http://www.truongdo.com/publication).
 
 ## Contact
-- __Personal:__ <a href="mailto:truongdq54 [at] gmail.com">truongdq54 [at] gmail.com</a>
-- __Work:__ <a href="mailto:truongdo [at] vais.vn">truongdo [at] vais.vn</a>
+- __Personal:__ <a href="mailto:truongdq54@gmail.com">truongdq54@gmail.com</a>
+- __Work:__ <a href="mailto:truongdo@vais.vn">truongdo@vais.vn</a>
