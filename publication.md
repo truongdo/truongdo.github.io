@@ -8,7 +8,8 @@ permalink: /publication/
 
 |Year|Papers|Codes|Samples|
 |-----|------|-----|-------|
-|2023| Thai Binh Nguyen, Quang Minh Nguyen, Quoc Truong Do, Chi Mai Luong. AdaptITN: A FAST, RELIABLE, AND DYNAMIC ADAPTIVE INVERSE TEXT NORMALIZATION (To appear). ICASSP 2023. | | |
+|2025| Thai Binh Nguyen, Quoc Truong Do, Chi Mai Luong. ViCocktail: Automated Multi-Modal Data Collection for Vietnamese Audio-Visual Speech Recognition. INTERSPEECH 2025. | | |
+|2023| Thai Binh Nguyen, Quang Minh Nguyen, Quoc Truong Do, Chi Mai Luong. AdaptITN: A FAST, RELIABLE, AND DYNAMIC ADAPTIVE INVERSE TEXT NORMALIZATION. ICASSP 2023. | | |
 |2022 | Thu Hien Nguyen, Thai Binh Nguyen, Quoc Truong Do, Tuan Linh Nguyen. [End-to-end named entity recognition for vietnamese speech. O-COCOSDA 2022](https://ieeexplore.ieee.org/abstract/document/9997862) | | |
 |2021| Thu Hien Nguyen,  Thai Binh Nguyen,  Ngoc Phuong Pham,  Quoc Truong Do,  Tu Luc Le,  Chi Mai Luong. [Toward Human-Friendly ASR Systems: Recovering Capitalization and Punctuation for Vietnamese Text](https://www.jstage.jst.go.jp/article/transinf/E104.D/8/E104.D_2020BDP0005/_pdf). IEICE TRANSACTIONS on Information and Systems, Vol.E104-D, No.8, p.1195-1203. | | |
 |2020| Nguyen, Thai Binh, Nguyen Quang Minh, Nguyen Thu Hien, Do Quoc Truong, Luong Chi Mai. [Improving Vietnamese Named Entity Recognition from Speech Using Word Capitalization and Punctuation Recovery Models](https://arxiv.org/pdf/2010.00198.pdf). Interspeech 2020 | | |
